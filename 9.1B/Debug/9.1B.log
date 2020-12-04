@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\1 курс\АП\9.1B\9.1B\Source.cpp(46,6): warning C4101: 'kurs': unreferenced local variable
+D:\1 курс\АП\9.1B\9.1B\Source.cpp(137,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  9.1B.vcxproj -> D:\1 курс\АП\9.1B\Debug\9.1B.exe
